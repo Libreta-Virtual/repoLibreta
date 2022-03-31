@@ -40,6 +40,7 @@ function Login() {
                   <h4>Libreta Virtual</h4>
                   </legend>
     
+    
         <div className="form-group">
           <label htmlFor="dni" className="form-label mt-3 me-3">
             DNI <i className="fa-solid fa-address-card mx-1"></i>
