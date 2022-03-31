@@ -38,9 +38,7 @@ function Login() {
             <form  id="formLogin" onSubmit= {loginForm} action="">
                 <fieldset><legend className="text-center mt-5">
                   <h4>Libreta Virtual</h4>
-                  </legend>
-    
-    
+                  </legend>    
         <div className="form-group">
           <label htmlFor="dni" className="form-label mt-3 me-3">
             DNI <i className="fa-solid fa-address-card mx-1"></i>
